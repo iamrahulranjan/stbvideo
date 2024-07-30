@@ -25,7 +25,7 @@
   {
     "adult":0,
     "row_no":0,
-    "isAds":1,
+    "isAds":0,
     "backdrop_path":"https://raw.githubusercontent.com/RahulRanjanThynkXD/stbvideo/main/ads_imd.png",
     "genre_ids":[
       18,
