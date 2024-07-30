@@ -62,7 +62,7 @@
     "release_date":"1974-12-20",
     "title":"The Godfather Part II",
     "video_url":"",
-    "launch_intent": "https://www.youtube.com/watch?v=9O1Iy9od7-A",
+    "launch_intent": "https://app.primevideo.com",
     "vote_average":8.577,
     "vote_count":12105
   },
@@ -85,7 +85,7 @@
     "release_date":"1993-12-15",
     "title":"Schindler's List",
     "video_url":"",
-    "launch_intent": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+    "launch_intent": "https://www.youtube.com",
     "vote_average":8.567,
     "vote_count":15509
   },
