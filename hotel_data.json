@@ -18,7 +18,7 @@
     "title":"The Shawshank Redemption",
     "video":0,
     "video_url":"",
-    "launch_intent": "https://www.jellybeantv.net",
+    "launch_intent": "com.Pad.tvapp",
     "vote_average":8.706,
     "vote_count":26432
   },
